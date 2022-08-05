@@ -3,10 +3,10 @@
 ![Game sample img](./assets/sample.PNG)
 The purpose of this game project is to practice some technical skills while creating a simple game using p5.js
 library. The core functionalities include:
-player interaction
-environment interactions
-score and lives counter
-game over states
+- player interaction
+- environment interactions
+- score and lives counter
+- game over states
 
 ## Extensions
 
